@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Year 11, Term 1" "Year 11, Term 2" "year 11, term 3" "Year 11, Term 3 Chemistry HL"]
+ :favorites ["Year 11, Term 3 Chemistry HL"]
 
  ;; Set flashcards interval.
  ;; Expected value:
