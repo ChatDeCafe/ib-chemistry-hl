@@ -1,11 +1,11 @@
-## Structure 1.1
+- {{cards([[y11t1]])}}
+- ## Structure 1.1
 	- ### **Structure 1.1.1 - Particulate nature of matter**
 		- **What is an atom?**#card
 			- An atom is the smallest unit of an element.
 		- **What is an element?**#card
 			- A pure substance consisting only of atoms with the same number of protons.
 		- **What is a compound?**#card
-			- Atoms of different elements bonded together in a fixed ratio.
 			- Atoms of different elements bonded together in a fixed ratio.
 		- **What is a mixture?**#card
 			- Contain more than one element or compound in no fixed ratio, which are not chemically bonded so can be separated by physical methods.
