@@ -64,7 +64,7 @@
 			  ![](https://remnote-user-data.s3.amazonaws.com/oYWlVbURYwCcxzviMZn0kgS0QDDT0u9jrU2fceOktWaWGQB63W2TobC0euqeJiqWxfq2f-hAftiONroHG-SvZYczNYOMpGZvD47pLXgUEAs4yA7bC_B85IigYkLWbJed.png)
 		-
 - ## **Structure 2.2**
-	- ### **Structure 2.2.1, 11**
+	- ### **Structure 2.2.1, 11, 15, 16**
 		- **What are atoms that form incomplete octets?**#card
 			- Beryllium, boron, aluminium, hydrogen
 		- **What are resonance structures?**#card
@@ -82,6 +82,8 @@
 			- Fluorine has an extremely small radius, thus repulsion from the lone pairs overpowers bonding.
 		- **What atoms form expanded octets?** #card
 			- All transition metals, everything past period 3 in groups 13 and above due to the ability of unoccupied d-orbitals to from additional covalent bonds. Si, P, S, Cl, Br, and I form them
+		- What is hybridisiation? #card
+			- The formation of degenerate orbitals for bonding. For example in carbon, the 2p orbitals decrease in energy (depending on the hybridisation) while the 2s orbitals increase in energy and all of them become degenerate.
 	- ### **Structure 2.2.3**
 		- **What is a coordination bond?**#card
 			- Both electrons in a shared pair (in a covalent bond) originate from one atom. This is usually represented with an arrow. Coordination bonds are identical to normal covalent bonds (and do not vary in length etc.)
@@ -135,6 +137,12 @@
 		- **Why does water not have a linear shape?**#card
 			- The lone pairs on the O cause more repulsion than the single bonds, thus distort the shape and make it bent.
 		- **What is the geometry of a molecule with 2 electron domains?**#card
+		  card-last-interval:: 4
+		  card-repeats:: 1
+		  card-ease-factor:: 2.6
+		  card-next-schedule:: 2025-05-24T23:48:09.652Z
+		  card-last-reviewed:: 2025-05-20T23:48:09.653Z
+		  card-last-score:: 5
 			- Linear
 		- **What is the geometry of a molecule with 3 electron domains?**#card
 			- Trigonal planar
@@ -151,6 +159,7 @@
 		- What bond angles do sp3 hybridised carbons have? #card
 			- 109.5 deg
 	- ### **Structure 2.2.5, 6**
+	  collapsed:: true
 		- **What is bond polarity?**#card
 			- Measure of the uneven sharing of electrons in a bond (which can cause shift in the electron cloud) and is based off electronegativity.
 		- **What is molecular polarity?**#card
@@ -169,6 +178,33 @@
 			- Orange-red
 		- What colour is iodine?#card
 			- Purple-black
+	- ### Structure 2.2.7, 3.1
+		- What is a covalent network structure? #card
+			- Covalent structure consisting of many crystalline structures (repeating structures) that can rearrange themselves in certain ways.
+		- What are allotropes? #card
+			- Substances made of the same element in the same physical state (e.g. buckyball of carbon or O2 vs O3 of oxygen)
+		- What is the structure of diamond? #card
+			- Repeating tetrahedral crystals of only carbon atom. Each carbon atom is sp3 hybridised, thus no electrons are delocalised as all are participating in bonding.
+			- ![image.png](../assets/image_1747783884378_0.png)
+		- What is the structure of graphite? #card
+			- Each carbon atom is covalently bonded to three others to form hexagons in parallel layers, called graphene. The shapes are trigonal planar. All carbons are sp2 carbons, so there are delocalised electrons (as 1 electron is not participating in bonding). Graphite has strength and conductivity (due to delocalised electrons). LDFs between layers are weak making it soft.
+		- Describe thermal and electrical conductivity in diamond and graphite? #card
+			- Both of them are poor conductors of conductivity. Both of them are thermal conductors, but diamond is stronger, as covalent bonds can vibrate in order to conduct heat, but intermolecular forces cannot do this, which is why graphite can still conduct heat (through graphene layers) but is weaker between layers.
+		- What is graphene? #card
+			- A single layer of graphite (with a hexagonal pattern).
+		- What is a nanotube? #card
+			- A rolled up graphene tube.
+		- What is fullrene/buckyball? #card
+			- A rolled up cage of graphene.
+		- What is the structure of silicon? #card
+			- It covalently bonds to four other atoms tetrahedrally.
+			  ![image.png](../assets/image_1747784162168_0.png)
+		- What is the structure of silicon dioxide? #card
+			- Si is bound to four O atoms, O is bound to two Si atoms, forms a repeating structure.
+		- Why are silicon structures weaker than carbon structures? #card
+			- Silicon to silicon has a weaker bond compared to carbon as it has a larger atomic radius, less ENC. This is evidenced by lower bond enthalpy.
+		- Why are Si - O bonds stronger than Si - Si and C - C bonds? #card
+			- Si and O have a greater electronegativity difference than Si - Si and C - C, making it a polar covalent bond. This is shown by greater bond enthalpy.
 	- ### **Structure 2.2.8,9**
 		- **What are London dispersion forces? (LDFs)**#card
 			- Intermolecular forces through instantaneous temporary dipoles formed within molecules (shift in electron cloud to make one end more negative and one end more positive). They exist between non-polar molecules and cause them to have low melting and boiling points (e.g., O2)
