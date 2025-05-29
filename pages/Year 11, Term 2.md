@@ -228,6 +228,8 @@
 			- The more spherical the molecule the less surface area there is to attract another molecule of the same type, thus pentane has the highest.
 		- What are giant covalent solids? #card
 			- A network of covalent bonds extended throughout the entire structure
+		- What is volatility? #card
+			- Tendency of a substance to vapourise into a gas.
 	- ### **Structure 2.2.12**
 		- **What is benzene?**#card
 			- $C_6H_6$ , has a 6 carbon ring with resonance. 
@@ -288,7 +290,9 @@
 		- **Describe how melting point and reactivity change across a period in metals.**#card
 			- Melting point increases, reactivity decreases due to stronger attraction between ions and delocalised electrons (atomic radius decreases).
 		- **Describe how melting point and reactivity change across a group of metals.**#card
-			- Melting point decreases, reactivity increases as ther is weaker attraction between the ions and delocalised electrons (atomic radius increases).
+			- Melting point decreases, reactivity increases as theer is weaker attraction between the ions and delocalised electrons (atomic radius increases).
+		- Why do transition metals create stronger metallic bonding? #card
+			- Valence electrons in d-orbital contribute to the electron sea
 	- ### **Structure 2.3.3**
 		- **Transition metals can give rise to cations with...**#card
 			- an incomplete d sublevel
